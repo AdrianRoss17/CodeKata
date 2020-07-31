@@ -1,6 +1,6 @@
 # CodeKata
 
-Use any .Net language; use any project type.  The goal of this exercise is to get a better glimpse into your thought process.  While this is a simple exercise, think of it as a large project, so put whatever patterns you think would be necessary for an enterprise level application. 
+Use Angular for frontend and .Net for backend. The goal of this exercise is to get a better glimpse into your thought process.  While this is a simple exercise, think of it as a large project, so put whatever patterns you think would be necessary for an enterprise level application. 
 
 
 
